@@ -1,0 +1,14 @@
+.heading {
+    padding: 2% 0;
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;    
+}
+.heading h1{
+    color: #000;
+}
+
+.heading :hover{
+    background-color: cadetblue;
+    cursor:crosshair
+}
